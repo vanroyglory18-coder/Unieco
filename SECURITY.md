@@ -1,16 +1,18 @@
 # Security Policy
 
-## Commitment to Student Privacy
-We are dedicated to protecting the privacy of our students. We ensure that personal information is collected, processed, and stored in accordance with applicable privacy laws and regulations. 
+## Reporting a Vulnerability
 
-## Data Protection
-We implement strong data protection measures to safeguard personal and sensitive information. This includes encryption, access controls, and regular security audits to identify and mitigate vulnerabilities.
+If you discover a security vulnerability within Unieco, please report it privately to the maintainers. Do **not** disclose it publicly until we've addressed the issue.
 
-## Secure Authentication
-All user accounts are protected with secure authentication methods. We encourage the use of strong passwords and two-factor authentication (2FA) to enhance account security.
+- Email: [security@unieco.app] (placeholder)
+- In-app: Use the security report feature
 
-## Safe Interactions
-We promote safe interactions within our platform. This includes monitoring user activities to prevent harassment and ensuring that all communication channels are secure and private.
+We take security seriously and will respond as quickly as possible.
 
-## Reporting Security Issues
-If you identify any security vulnerabilities or issues, please report them immediately to our security team at [security@unieco.com](mailto:security@unieco.com). We take all reports seriously and will respond promptly to address any concerns.
+## Security Best Practices
+
+- Use strong passwords and enable 2FA.
+- Never share personal or sensitive data in public groups.
+- Report suspicious activity immediately.
+
+Together, let's keep Unieco safe for everyone!
